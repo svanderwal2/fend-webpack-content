@@ -1,2 +1,2 @@
-alert('index.js is active!')
+alert('this is active!')
 
