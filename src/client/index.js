@@ -1,3 +1,4 @@
 import{ handleSubmit } from './js/formHandler'
-alert('this is active!')
+import { checkForName } from './js/nameChecker'
 
+console.log(checkForName);
